@@ -1,0 +1,42 @@
+<!--
+  ~ Copyright 2019 Deepank Mehta. All rights reserved.
+  ~ Licensed under the Apache License, Version 2.0 (the “License”);
+  ~ You may not use this file; except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ Distributed under the License is distributed on an “AS IS” BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ Limitations under the License.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">Popular Movies 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="error_message">Cannot load data, please try again.</string>
+
+    <string name="release_date">Release Date:</string>
+    <string name="average_votes">Average Votes:</string>
+    <string name="overview">Overview:</string>
+    <string name="trailers">Trailers:</string>
+    <string name="reviews">Reviews:</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="error">Looks like you are not connected to the internet.</string>
+
+    <string name="pref_sort_key">Sort By</string>
+
+    <string name="pref_sort_by_popular_label">Popular</string>
+    <string name="pref_sort_by_top_rated_label">Top Rated</string>
+    <string name="pref_sort_by_now_playing_label">Now Playing</string>
+    <string name="pref_sort_by_upcoming_label">Upcoming</string>
+
+    <string name="pref_sort_by_popular_key">popular</string>
+    <string name="pref_sort_by_top_rated_key">top_rated</string>
+    <string name="pref_sort_by_now_playing_key">now_playing</string>
+    <string name="pref_sort_by_upcoming_key">upcoming</string>
+
+</resources>
